@@ -7,9 +7,9 @@ you need a mongoDB instance to run this project
 
 the db configuration is inside config/default
 
-the swagger documentaion is running on http://localhost:1337/docs
+the swagger documentaion is running on http://165.51.222.52:1337/docs/
 
-the project is running on http://localhost:1337/
+the project is running on http://165.51.222.52:1337
 
 i could not connect to the database provided in the challenge document so i used my local database
 
